@@ -1,0 +1,9 @@
+Morning all,
+
+As mentioned before, you'll want a few basic Python tools installed to follow along - specifically, Jupyter, numpy, scipy, matplotlib, and emcee.  If you don't have those up and running yet I can help troubleshoot in some of the "work" time.
+
+Once you've got that all running, you should be able to grab the materials from here:
+https://github.com/eteq/bayes-ismstar
+you can either download it from the github interface or (better yet) clone the git repo if you are proficient in git.
+
+See you all soon!
