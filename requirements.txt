@@ -1,0 +1,6 @@
+numpy<2.0
+scipy
+graphviz
+matplotlib
+astropy
+jupyterlab
