@@ -3,4 +3,6 @@ scipy
 graphviz
 matplotlib
 astropy
+emcee
+corner
 jupyterlab
