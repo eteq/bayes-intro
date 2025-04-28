@@ -6,3 +6,4 @@ astropy
 emcee
 corner
 jupyterlab
+matplotlib-venn
