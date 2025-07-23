@@ -7,3 +7,4 @@ emcee
 corner
 jupyterlab
 matplotlib-venn
+astroquery
