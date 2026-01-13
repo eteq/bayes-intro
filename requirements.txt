@@ -8,3 +8,4 @@ corner
 jupyterlab
 matplotlib-venn
 astroquery
+dynesty
